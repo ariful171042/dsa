@@ -9,3 +9,5 @@ function fibonacci(n){
 }
 
 console.log(fibonacci(9));
+
+// time complexity = O(2^n)
